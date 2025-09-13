@@ -23,10 +23,10 @@ The HR Analytics Dashboard helps HR teams and business leaders:
 - **Day/Night Mode Toggle** 🌙☀️ – A custom button feature to switch between light and dark themes for better user experience.
 
 ## 📷 Images
-### 🌙 Night Mode
+### ☀️ Day Mode
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/237d1867-7a50-44e3-aee7-216548dd1310" />
 
-### ☀️ Day Mode
+### 🌙 Night Mode
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/6905dc86-e854-4d9e-a159-10f065b6347b" />
 
 
