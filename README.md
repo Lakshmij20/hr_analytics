@@ -2,9 +2,6 @@
 
 This repository contains an interactive **Power BI dashboard** designed to analyze HR metrics and uncover insights into employee demographics, attrition, performance, and job satisfaction.
 
-## 📁 File
-- `HR Analytics Dashboard.pbix` – Power BI report file containing the HR analytics dashboard.
-
 ## 🔍 Project Overview
 The HR Analytics Dashboard helps HR teams and business leaders:
 - Monitor workforce demographics
@@ -32,18 +29,10 @@ The HR Analytics Dashboard helps HR teams and business leaders:
 
 ## 📈 Insights
 - **Highest Attrition** is among employees aged **26–35 years** and with **<5 years of tenure**.  
-- Employees in **Life Sciences and Medical** fields contribute the most to attrition.  
-- Job satisfaction varies widely, with managers and research directors reporting higher satisfaction.  
+- Employees in **Life Sciences and Medical** fields contribute the most to attrition.   
 
 ## 🛠️ Tools Used
 - **Microsoft Power BI** – for dashboard design and interactivity  
 - **DAX** – for calculated fields and KPIs  
-- **HR Dataset** – sourced from DataCamp HR Analytics case study  
-
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository.
-2. Open with **Power BI Desktop**.
-3. Interact with the filters, visuals, and day/night toggle for insights.
-
 
 
